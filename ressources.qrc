@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/close.png</file>
+    <file>images/hide.png</file>
+    <file>images/square.png</file>
+    <file>images/search.png</file>
+    <file>images/menu.png</file>
+    <file>images/utilisateurs.png</file>
+    <file>images/clients.png</file>
+    <file>images/commande_client.png</file>
+    <file>images/commande_fournisseurs.png</file>
+    <file>images/entrees.png</file>
+    <file>images/fournisseurs.png</file>
+    <file>images/logo.png</file>
+    <file>images/logout.png</file>
+    <file>images/produits.png</file>
+    <file>images/so.png</file>
+    <file>images/sortie.png</file>
+    <file>images/stocks.png</file>
+    <file>images/store.png</file>
+    <file>images/logo.png</file>
+  </qresource>
+</RCC>
